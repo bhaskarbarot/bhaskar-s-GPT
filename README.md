@@ -10,4 +10,5 @@ steps of creating my own gpt model application
 6. then i created a streamlit application with 2 answers 1.funny answer and 2.serious answer
 7. so thats it my application
 8. i mention the 2 files of streamlit and hugging face code
-9. and video also for my application 
+9. and video also for my application
+10. and this is my video link : https://drive.google.com/file/d/1Yr3YMs7HD06UsWcfCyZqPTTf6a1Llcco/view?usp=sharing
